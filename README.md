@@ -19,3 +19,5 @@
 [求数组中未出现的最小正整数](https://github.com/jyzwf/algorithm/issues/1)
 
 [洗牌算法](https://github.com/jyzwf/blog/issues/34)
+
+[Two Sum ](https://github.com/jyzwf/algorithm/issues/2)
