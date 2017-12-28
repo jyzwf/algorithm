@@ -1,6 +1,5 @@
 # algorithm
 
-## 排序
 
 [排序之基数排序](https://github.com/jyzwf/blog/issues/6)
 
@@ -15,3 +14,6 @@
 [排序之插入排序](https://github.com/jyzwf/blog/issues/1)
 
 [排序之希尔排序](https://github.com/jyzwf/blog/issues/28)
+
+
+[求数组中未出现的最小正整数](https://github.com/jyzwf/algorithm/issues/1)
