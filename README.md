@@ -1,5 +1,7 @@
 # algorithm
+[Longest Substring Without Repeating Characters](https://github.com/jyzwf/algorithm/issues/4)  
 
+[Median of Two Sorted Arrays](https://github.com/jyzwf/algorithm/issues/3)  
 
 [排序之基数排序](https://github.com/jyzwf/blog/issues/6)
 
