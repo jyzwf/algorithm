@@ -1,4 +1,8 @@
 # algorithm
+[ZigZag Conversion](https://github.com/jyzwf/algorithm/issues/6)  
+
+[“马拉车”算法](https://github.com/jyzwf/algorithm/issues/5)  
+
 [Longest Substring Without Repeating Characters](https://github.com/jyzwf/algorithm/issues/4)  
 
 [Median of Two Sorted Arrays](https://github.com/jyzwf/algorithm/issues/3)  
